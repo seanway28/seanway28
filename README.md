@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about GitHub, CSS, HTML and full stack code development
 - 💞️ I’m looking to collaborate anything that can help me and anyone else grow in knowledge and practice. I bring knowledge and well over a decade of electrical engineering and project management from both Caterpillar and General Electric. 
 - 📫 You can best reach me at the following email address seanway28@gmail.com
+- You can view my most recent collaborative project @ https://github.com/seanway28/InterstellarWellness.git
 
 <!---
 seanway28/seanway28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
