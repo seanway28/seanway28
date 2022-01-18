@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @seanway28, but you can call me Sean!
-- 👀 I’m interested in full stack development, mobile app development, cyber security and other new opportunities. I believe I can combine this new knowledge with by previous 10+ years as a Project Manager for several Caterpillar dealerships and corporate offices and my time at General Electric that gave me the inspiration to start my coding studies.
-- 🌱 I’m a graduate of the Butler University Full Stack Code Development Executive Bootcamp Program!
-- 💞️ I’m looking to collaborate anything that can help me and anyone else grow in knowledge and practice. I bring knowledge and well over a decade of electrical engineering and project management experience from both Caterpillar and General Electric. 
-- 📫 You can best reach me at the following email address seanway28@gmail.com
+Full Stack Code Developer with 10+ years in Project Management , General Management, Sales and Business Development. Additional experience: Information Technology Management (Full Stack Code Development), Technical Support, Account and Client Relationship Management, Negotiation and Employee Training. Fully versed in leading Full Stack Development IT platforms, tools and applications, including React, Node.js, MERN, JavaScript, Python, PWAs, front & back end development. Adaptable, driven, collaborative skills sets focussed on bringing open lines of communication through the course of the project, through all teams.  Experienced in conflict resolution, HR policy and staff changes. Innovative Six Sigma-trained leader that delivers value and results to clients from behind the desk and in the field.
+
+- 📫 You can best reach me at the following email address: seanway28@gmail.com
 - You can view my most recent collaborative project @ https://github.com/seanway28/InterstellarWellness.git
 
 <!---
